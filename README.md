@@ -35,4 +35,4 @@ A curated, living repository of daily cybersecurity research, root-cause analyse
 ## Connect
 
 * **LinkedIn:** www.linkedin.com/in/divyeshpatel1356 
-* **GitHub:** [@TheSecArchitect-Dev](https://github.com)
+* **GitHub:** https://github.com/TheSecArchitect-Dev/cybersecurity-research-notes
